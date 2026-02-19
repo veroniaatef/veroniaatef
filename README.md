@@ -1,5 +1,5 @@
 # Veronia Atef
-Data Analyst | BI Specialist | Data Engineering Foundations
+Data Analyst | Data Engineer 
 
 📍 Giza, Egypt  
 📧 [Email](mailto:veroniaatef16@gmail.com)  
@@ -23,13 +23,3 @@ Focused on turning business data into actionable insights.
 
 ---
 
-## Featured Projects
-🔹 FMCG Sales Performance Dashboard  
-🔹 Customer Segmentation (RFM Analysis)  
-🔹 SQL Business Analytics Project  
-🔹 ETL Pipeline with Python  
-🔹 LangChain RAG Chatbot  
-
----
-
-⭐ Open to Data Analyst  (UAE / KSA / Remote)
