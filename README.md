@@ -1,16 +1,35 @@
-## Hi there 👋
+# Veronia Atef
+Data Analyst | BI Specialist | Data Engineering Foundations
 
-<!--
-**veroniaatef/veroniaatef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Giza, Egypt  
+📧 [Email](mailto:veroniaatef16@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/veronia-atef-111335209)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Summary
+Data Analyst with strong SQL, Power BI, and Python expertise. 
+Data Engineer building ETL pipelines and scalable data models. 
+Focused on turning business data into actionable insights.
+
+---
+
+## Core Skills
+- SQL (CTEs, Window Functions, Optimization)
+- Power BI (DAX, Data Modeling, Executive Dashboards)
+- Python (Pandas, Automation, Data Cleaning)
+- ETL & Data Pipelines
+- KPI Design & Performance Analysis
+
+---
+
+## Featured Projects
+🔹 FMCG Sales Performance Dashboard  
+🔹 Customer Segmentation (RFM Analysis)  
+🔹 SQL Business Analytics Project  
+🔹 ETL Pipeline with Python  
+🔹 LangChain RAG Chatbot  
+
+---
+
+⭐ Open to Data Analyst  (UAE / KSA / Remote)
